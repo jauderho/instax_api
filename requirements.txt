@@ -10,12 +10,12 @@ idna==3.4; python_version >= '3.5'
 iniconfig==2.0.0; python_version >= '3.7'
 packaging==23.2; python_version >= '3.7'
 pep8==1.7.1
-pillow==10.0.1; python_version >= '3.8'
+pillow==10.1.0; python_version >= '3.8'
 pluggy==1.3.0; python_version >= '3.8'
-pycodestyle==2.11.0; python_version >= '3.8'
+pycodestyle==2.11.1; python_version >= '3.8'
 pytest==7.4.2; python_version >= '3.7'
 pytest-cache==1.0
 pytest-cov==4.1.0; python_version >= '3.7'
 pytest-pep8==1.0.6
 requests==2.31.0; python_version >= '3.7'
-urllib3==2.0.6; python_version >= '3.7'
+urllib3==2.0.7; python_version >= '3.7'
