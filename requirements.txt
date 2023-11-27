@@ -6,7 +6,7 @@ coverage[toml]==6.5.0; python_version >= '3.7'
 coveralls==3.3.1; python_version >= '3.5'
 docopt==0.6.2
 execnet==2.0.2; python_version >= '3.7'
-idna==3.4; python_version >= '3.5'
+idna==3.6; python_version >= '3.5'
 iniconfig==2.0.0; python_version >= '3.7'
 packaging==23.2; python_version >= '3.7'
 pep8==1.7.1
