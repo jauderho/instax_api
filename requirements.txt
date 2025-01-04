@@ -2,7 +2,7 @@
 --extra-index-url https://www.piwheels.org/simple
 certifi==2024.12.14
 charset-normalizer==3.4.1
-coverage[toml]==6.5.0
+coverage[toml]==7.6.10
 coveralls==3.3.1
 docopt==0.6.2
 execnet==2.1.1
