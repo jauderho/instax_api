@@ -10,12 +10,12 @@ idna==3.10
 iniconfig==2.1.0
 packaging==24.2
 pep8==1.7.1
-pillow==11.1.0
+pillow==11.2.1
 pluggy==1.5.0
 pycodestyle==2.13.0
 pytest==8.3.5
 pytest-cache==1.0
-pytest-cov==6.1.0
+pytest-cov==6.1.1
 pytest-pep8==1.0.6
 requests==2.32.3
-urllib3==2.3.0
+urllib3==2.4.0
